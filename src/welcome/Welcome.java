@@ -16,6 +16,8 @@ public class Welcome {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Welcome");
+        System.out.print("Here is my ");
+        System.out.println("Project");
     }
-    
+
 }
